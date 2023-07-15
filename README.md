@@ -18,3 +18,6 @@
 [임소연](https://github.com/sso-yeon)
 
 [최연재](https://github.com/yeonjae02)
+
+### 대회 결과
+우수상을 수상하였습니다.
